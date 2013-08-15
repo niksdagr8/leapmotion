@@ -1,0 +1,16 @@
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/clean-test-results.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/leap.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/rosbuild_precompile.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/rospack_genmsg.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/rospack_genmsg_libexe.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/rospack_gensrv.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/test.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/test-future.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/test-results.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/test-results-run.dir
+/opt/ros/fuerte/stacks/leapomotion/build/CMakeFiles/tests.dir
