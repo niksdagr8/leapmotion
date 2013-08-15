@@ -170,9 +170,7 @@ int main(int argc, char **argv) {
   controller.addListener(listener);
 
   ros::init(argc, argv, "leap_control");
-  std::cout << "listener created" << std::endl;
   ros::NodeHandle n;
-  std::cout << "sdf" << std::endl;
   ros::Rate loop_rate(10);
   
   while (ros::ok())
